@@ -3,4 +3,9 @@ result
 result-*
 
 # Ignore automatically generated direnv output
+250528-revpi-bookworm-arm64-default/
+*.zip
+imagebakery/
+
 .direnv
+.DS_Store
